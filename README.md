@@ -11,3 +11,6 @@ A simple list of local resources for web developers
 * http://eugenetech.org/
 * https://eugenetech.switchboardhq.com/
 * http://eugenetech.org/slack/
+
+##Technology Association of Oregon in the Southern Willamette Valley
+https://www.facebook.com/techoregonswv/
