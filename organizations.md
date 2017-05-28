@@ -1,5 +1,5 @@
 # Organizations
-A simple list of Eugene local resources for web developers
+A simple list of Eugene local resources for web developers. :computer:
 
 ## Eugene Web Devs
 * http://eugenewebdevs.com
@@ -19,3 +19,6 @@ A simple list of Eugene local resources for web developers
 
 ## Technology Association of Oregon in the Southern Willamette Valley
 https://www.facebook.com/techoregonswv/
+
+## Silicon Shire
+https://siliconshire.org/
