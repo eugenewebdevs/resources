@@ -23,7 +23,7 @@ Below are web pages listing positions in the company.
 If a tech company has a site, but has no hiring page it will not be listed here.
 For listing of tech company web pages see https://siliconshire.org/
 
-below are sites that repost and aggregate positions.
+Below are sites that repost and aggregate positions.
 
 ## Aggregation
 * https://www.governmentjobs.com/careers/eugene?category[0]=IT%20and%20Computers&sort=PositionTitle%7CAscending
