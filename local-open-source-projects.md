@@ -20,4 +20,10 @@ This WP plugin is maintained by local Eugene company [IDX Broker](https://idxbro
 * [:octocat: repository](https://github.com/concentricsky/badgr-server)
 * [Project site](https://info.badgr.io/)
 
-This project is maintained by local Eugene company [Concentric Sky](https://idxbroker.com/).
+This project is maintained by local Eugene company [Concentric Sky](https://concentricsky.com/).
+
+#### eslint-config
+* JS
+* [:octocat: repository](https://github.com/cbtnuggets/eslint-config-cbtnuggets)
+
+This project is maintained by local Eugene company [CBT Nuggets](https://www.cbtnuggets.com/).
