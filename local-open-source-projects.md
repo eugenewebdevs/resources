@@ -6,7 +6,7 @@ This is a list for open sourced :open_file_folder: projects created in Eugene, O
 
 Each project listed will have it's own methods for contributions and licensing. See provided :link: for more on any project.
 
-Languages, repository, and project sites are listed. the maintainer of the project is also listed.
+Languages, repository, and project sites are listed. The maintainer of the project is also listed.
 
 #### IDX Broker WP plugin
 * PHP, JS, MSQL
