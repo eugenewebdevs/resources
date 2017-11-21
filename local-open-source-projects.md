@@ -8,21 +8,21 @@ Each project listed will have it's own methods for contributions and licensing. 
 
 Languages, repository, and project sites are listed. The maintainer of the project is also listed.
 
-#### IDX Broker WP plugin
+### IDX Broker WP plugin
 * PHP, JS, MSQL
 * [:octocat: repository](https://github.com/idxbroker/wordpress-plugin)
 * [Project site on WordPress](https://wordpress.org/plugins/idx-broker-platinum/)
 
 This WP plugin is maintained by local Eugene company [IDX Broker](https://idxbroker.com/).
 
-#### Badjr
+### Badjr
 * Python, JS
 * [:octocat: repository](https://github.com/concentricsky/badgr-server)
 * [Project site](https://info.badgr.io/)
 
 This project is maintained by local Eugene company [Concentric Sky](https://concentricsky.com/).
 
-#### eslint-config
+### eslint-config
 * JS
 * [:octocat: repository](https://github.com/cbtnuggets/eslint-config-cbtnuggets)
 
