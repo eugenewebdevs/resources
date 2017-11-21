@@ -20,6 +20,7 @@ Below are web pages listing positions in the company.
 * http://www.4medica.com/career.html
 * https://connectedsignals.com/employmentopportunities/
 * https://celearningsystems.bamboohr.com/jobs/
+* https://www.feynmangroup.com/careers
 
 If a tech company has a site, but has no hiring page it will not be listed here.
 For listing of tech company web pages see https://siliconshire.org/
