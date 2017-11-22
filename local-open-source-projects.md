@@ -15,7 +15,9 @@ Languages, repository, and project sites are listed. The maintainer of the proje
 
 This WP plugin is maintained by local Eugene company [IDX Broker](https://idxbroker.com/).
 
-### Badjr
+
+### Badgr
+
 * Python, JS
 * [:octocat: repository](https://github.com/concentricsky/badgr-server)
 * [Project site](https://info.badgr.io/)
