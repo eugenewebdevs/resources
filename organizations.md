@@ -16,6 +16,7 @@ A simple list of Eugene local resources for web developers. :computer:
 * https://www.youtube.com/channel/UCkorqQcfm406b77slRoB2Qg
 * https://eugenetech.switchboardhq.com/
 * http://eugenetech.org/slack/
+* https://www.meetup.com/EugeneTech/
 
 ## Technology Association of Oregon in the Southern Willamette Valley
 https://www.facebook.com/techoregonswv/
