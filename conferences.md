@@ -5,9 +5,11 @@ West Coast conferences that web developers may want to attend.
 ## API
 https://apicity.io/
 
-
 ## PHP
 https://www.cascadiaphp.com/
+
+## Python
+https://2019.pycascades.com/
 
 ## Go
 http://gonorthwest.io/
