@@ -5,6 +5,11 @@ West Coast conferences that web developers may want to attend.
 ## API
 https://apicity.io/
 
+## Javascript
+
+https://infinite.red/ChainReactConf
+https://2018.cascadiajs.com/
+
 ## PHP
 https://www.cascadiaphp.com/
 
