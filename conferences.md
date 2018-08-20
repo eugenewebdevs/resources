@@ -1,4 +1,4 @@
-## Conferences
+# Conferences
 
 West Coast conferences that web developers may want to attend.
 
