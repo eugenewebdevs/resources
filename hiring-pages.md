@@ -8,8 +8,8 @@ Below are web pages listing positions in the company.
 * http://www.paloalto.com/about-us/careers
 * https://www.cbtnuggets.com/employment
 * http://www.moonshadowmobile.com/company/career-opportunities/
-* https://www.irised.com/pages/jobs
 * https://www.sheerid.com/jobs-at-sheerid/
+* https://www.trifoia.com/careers
 * http://www.iste.org/about/careers-at-ISTE
 * https://limelightdept.com/careers/
 * https://www.emberex.com/careers/
