@@ -2,7 +2,7 @@
 
 ## About
 
-Local live streams. Some streams from people in and around Eugfene. Don't forget to hit that like and smash that sub. 
+Some streams from people in and around Eugfene. Don't forget to hit that like and smash that sub. 
 
 ## Links
 
