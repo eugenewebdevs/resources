@@ -15,8 +15,6 @@ Below are web pages listing Eugen, OR positions in the company.
 * https://limelightdept.com/careers/
 * https://www.emberex.com/careers/
 * http://quotesoft.com/information/employment/
-* http://edx.com/about/careers/
-* http://www.4medica.com/career.html
 * https://connectedsignals.com/employmentopportunities/
 * https://celearningsystems.bamboohr.com/jobs/
 * https://www.feynmangroup.com/careers
