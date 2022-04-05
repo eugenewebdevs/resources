@@ -14,7 +14,6 @@ Below are web pages listing Eugen, OR positions in the company.
 * http://www.iste.org/about/careers-at-ISTE
 * https://limelightdept.com/careers/
 * https://www.emberex.com/careers/
-* http://www.freeflowdigital.com/about-us/careers
 * http://quotesoft.com/information/employment/
 * http://www.symantec.com/about/careers/
 * http://edx.com/about/careers/
