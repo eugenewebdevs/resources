@@ -13,11 +13,10 @@ One of the best ways to become a better expert and communicator is to teach othe
 
 In teaching we can see and revise relevant business issues such as 
 
-- onboarding new people
+- improving new employee onboarding process
 - updating process and documentation
-- trying out new ways to onboard
 
-Lastly giving back to hte local community is another great benefit.
+Lastly giving back to the local community is another great benefit.
 
 
 
@@ -26,7 +25,7 @@ Lastly giving back to hte local community is another great benefit.
 There are a few issues that often make a business hesitant to take on an internship.
 
 - Unknown expectations
-- Not obvious tasks for the intern
+- Non-obvious tasks for the intern
 - Having someone in person in a remote first work culture
 - Adding a non employee to work tools (Slack Jira, etc...)
 
