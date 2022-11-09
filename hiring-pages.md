@@ -5,9 +5,7 @@ Below are web pages listing Eugen, OR positions in the company.
 ## Companies
 * https://twentyideas.bamboohr.com/jobs/
 * https://www.idxbroker.com/careers
-* https://concentricsky.com/team/careers
 * http://www.paloalto.com/about-us/careers
-* https://www.cbtnuggets.com/employment
 * http://www.moonshadowmobile.com/company/career-opportunities/
 * https://www.sheerid.com/jobs-at-sheerid/
 * https://www.trifoia.com/careers
