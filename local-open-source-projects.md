@@ -8,7 +8,24 @@ Each project listed will have it's own methods for contributions and licensing. 
 
 Languages, repository, and project sites are listed. The maintainer of the project is also listed.
 
+### Search github users by location
+
+* node
+* [:octocat: repository](https://github.com/smartdown/smartdown)
+* [Project site](https://github.com/antonioortegajr/github-users-by-location)
+
+### Smaertdown Viewer
+
+* node
+* [:octocat: repository]([https://github.com/smartdown/smartdown](https://github.com/smartdown/viewer)
+
+### Smaertdown
+
+* node
+* [:octocat: repository](https://github.com/smartdown/smartdown)
+
 ### IDX Broker WP plugin
+
 * PHP, JS, MSQL
 * [:octocat: repository](https://github.com/idxbroker/wordpress-plugin)
 * [Project site on WordPress](https://wordpress.org/plugins/idx-broker-platinum/)
