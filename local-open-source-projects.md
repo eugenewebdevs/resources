@@ -32,15 +32,6 @@ Languages, repository, and project sites are listed. The maintainer of the proje
 
 This WP plugin is maintained by local Eugene company [IDX Broker](https://idxbroker.com/).
 
-
-### Badgr
-
-* Python, JS
-* [:octocat: repository](https://github.com/concentricsky/badgr-server)
-* [Project site](https://info.badgr.io/)
-
-This project is maintained by local Eugene company [Concentric Sky](https://concentricsky.com/).
-
 ### eslint-config
 * JS
 * [:octocat: repository](https://github.com/cbtnuggets/eslint-config-cbtnuggets)
