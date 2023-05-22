@@ -10,6 +10,8 @@ Each project listed will have it's own methods for contributions and licensing. 
 
 Languages, repository, and project sites are listed. The maintainer of the project is also listed. 
 
+If you have an open source project you want listed here, jsut open a PR!
+
 ### Search github users by location
 
 * node
