@@ -31,7 +31,7 @@ If you have an open source project you want listed here, jsut open a PR!
 ### IDX Broker WP plugin
 
 * PHP, JS, MSQL
-* [:octocat: repository](https://github.com/idxbroker/wordpress-plugin)
+* [:octocat: repository](https://github.com/idxbroker/wordpress-plugin))
 * [Project site on WordPress](https://wordpress.org/plugins/idx-broker-platinum/)
 
 This WP plugin is maintained by local Eugene company [IDX Broker](https://idxbroker.com/).
