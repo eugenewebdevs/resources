@@ -15,7 +15,7 @@ If you have an open source project you want listed here, jsut open a PR!
 ### Search github users by location
 
 * node
-* [:octocat: repository](https://github.com/smartdown/smartdown)
+* [:octocat: repository]([https://github.com/smartdown/smartdown](https://github.com/antonioortegajr/github-users-by-location))
 * [Project site](https://github.com/antonioortegajr/github-users-by-location)
 
 ### Smartdown Viewer
