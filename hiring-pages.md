@@ -14,7 +14,6 @@ Below are web pages listing Eugen, OR positions in the company.
 * https://www.emberex.com/careers/
 * http://quotesoft.com/information/employment/
 * https://celearningsystems.bamboohr.com/jobs/
-* https://www.feynmangroup.com/careers
 * https://www.firstfoundry.co/#careers-section
 * https://jobs.jobvite.com/sentinelone/jobs
 
