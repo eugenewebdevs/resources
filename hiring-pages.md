@@ -16,6 +16,7 @@ Below are web pages listing Eugen, OR positions in the company.
 * https://celearningsystems.bamboohr.com/jobs/
 * https://www.firstfoundry.co/#careers-section
 * https://jobs.jobvite.com/sentinelone/jobs
+* https://celearningsystems.bamboohr.com/careers
 
 
 Below are sites that repost and aggregate positions.
