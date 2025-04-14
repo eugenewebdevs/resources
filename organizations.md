@@ -18,9 +18,21 @@ A simple list of Eugene local resources for web developers. :computer:
 * http://eugenetech.org/slack/
 * https://www.meetup.com/EugeneTech/
 
+
+## Eugene Dotnet
+* https://www.meetup.com/eugdotnet/
+
+
+## Bitforest
+* https://www.bitforest.tech/
+* https://www.meetup.com/bitforest/
+* https://www.facebook.com/bitforestcommunity/
+
+
 ## Technology Association of Oregon in the Southern Willamette Valley
-https://www.facebook.com/techoregonswv/
-https://www.meetup.com/Technology-Association-of-Oregon-in-greater-Eugene/
+* https://www.facebook.com/techoregonswv/
+* https://www.meetup.com/Technology-Association-of-Oregon-in-greater-Eugene/
+
 
 ## Silicon Shire
-https://siliconshire.org/
+* https://siliconshire.org/
