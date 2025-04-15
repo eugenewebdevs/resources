@@ -30,4 +30,4 @@ A simple list of Eugene local resources for web developers. :computer:
 
   
 ## Eugene Dotnet
-* https://www.meetup.com/eugdotnet/
+* https://www.meetup.com/eugdotnet/\
