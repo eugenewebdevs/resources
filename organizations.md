@@ -18,12 +18,16 @@ A simple list of Eugene local resources for web developers. :computer:
 * http://eugenetech.org/slack/
 * https://www.meetup.com/EugeneTech/
 
-
-## Eugene Dotnet
-* https://www.meetup.com/eugdotnet/
+## Eugene Makerspace
+* https://eugenemakerspace.com/
+* http://facebook.com/EugMakerSpace/
 
 
 ## Bitforest
 * https://www.bitforest.tech/
 * https://www.meetup.com/bitforest/
 * https://www.facebook.com/bitforestcommunity/
+
+  
+## Eugene Dotnet
+* https://www.meetup.com/eugdotnet/
