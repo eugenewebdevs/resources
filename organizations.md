@@ -22,5 +22,3 @@ A simple list of Eugene local resources for web developers. :computer:
 https://www.facebook.com/techoregonswv/
 https://www.meetup.com/Technology-Association-of-Oregon-in-greater-Eugene/
 
-## Silicon Shire
-https://siliconshire.org/
