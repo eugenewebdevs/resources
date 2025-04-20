@@ -1,6 +1,6 @@
 # Eugene Local Tech Companies Job Pages
 
-Below are web pages listing Eugen, OR positions in the company.
+Below are web pages listing Eugene, OR positions in the company.
 
 ## Companies
 * https://twentyideas.bamboohr.com/jobs/
