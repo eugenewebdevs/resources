@@ -9,7 +9,7 @@ Below are web pages listing Eugen, OR positions in the company.
 * http://www.moonshadowmobile.com/company/career-opportunities/
 * https://www.sheerid.com/jobs-at-sheerid/
 * https://www.trifoia.com/careers
-* http://www.iste.org/about/careers-at-ISTE
+* [http://www.iste.org/about/careers-at-ISTE](https://iste.org/careers)
 * https://limelightdept.com/careers/
 * https://www.emberex.com/careers/
 * http://quotesoft.com/information/employment/
@@ -17,7 +17,6 @@ Below are web pages listing Eugen, OR positions in the company.
 * https://www.firstfoundry.co/#careers-section
 * https://jobs.jobvite.com/sentinelone/jobs
 * https://celearningsystems.bamboohr.com/careers
-
 
 Below are sites that repost and aggregate positions.
 
